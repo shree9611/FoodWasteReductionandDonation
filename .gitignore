@@ -13,6 +13,7 @@ dist-ssr
 *.local
 uploads/
 backend-skeleton/uploads/
+.npm-cache/
 
 # Editor directories and files
 .vscode/*
